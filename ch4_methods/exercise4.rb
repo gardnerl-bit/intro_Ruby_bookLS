@@ -1,0 +1,1 @@
+# The explicit return inside the method stops it from invoking the puts method on the argument, in this case, "yippeee".

@@ -1,0 +1,1 @@
+The block parameter on the method defintition, is missing an ambersand (&) symbol. That allows a block to be passed as a parameter.
